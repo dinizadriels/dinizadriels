@@ -34,13 +34,6 @@ I'm a passionate **Developer** at **HI Tecnologia**, mainly working with **PHP**
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
-
-## 📌 About Me
-
-- 💻 I love solving problems through code.  
-- 🛠️ Passionate about server management and infrastructure optimization.  
-- 📈 Always learning new tools and technologies.
-
 ## 📫 How to reach me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diniz-adrielss)
